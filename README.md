@@ -77,5 +77,7 @@ This project demonstrates how machine learning can support:
 
 ---
 
+## Visualization
+
 ## Author
 Muhammad Yusuf Rizal
