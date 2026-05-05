@@ -78,6 +78,8 @@ This project demonstrates how machine learning can support:
 ---
 
 ## Visualization
+!(comparison.jpg)
+!(comparisonn.jpg
 
 ## Author
 Muhammad Yusuf Rizal
