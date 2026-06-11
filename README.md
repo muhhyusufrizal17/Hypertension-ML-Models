@@ -1,7 +1,5 @@
 # Hypertension Risk Prediction using Machine Learning
 
-## 📌 Overview
-
 This project focuses on predicting the risk of hypertension using machine learning techniques. The goal is to identify key health-related factors and evaluate multiple models to determine the most effective approach for early detection.
 
 ---
